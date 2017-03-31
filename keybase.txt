@@ -1,0 +1,72 @@
+==================================================================
+https://keybase.io/tgyurci
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://tgyurci.github.io
+  * I am tgyurci (https://keybase.io/tgyurci) on keybase.
+  * I have a public key with fingerprint D353 D798 708C D764 3897  1B0F 87C1 23EB 0A02 5239
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010177acc6fce71601e60e05ef61c2f4d72a81a7ab13d5c74bae82472bf892cd46990a",
+            "fingerprint": "d353d798708cd76438971b0f87c123eb0a025239",
+            "host": "keybase.io",
+            "key_id": "87c123eb0a025239",
+            "kid": "010177acc6fce71601e60e05ef61c2f4d72a81a7ab13d5c74bae82472bf892cd46990a",
+            "uid": "06a5b0a097d8a290e50bd41e093fb919",
+            "username": "tgyurci"
+        },
+        "service": {
+            "hostname": "tgyurci.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1490949487,
+    "expire_in": 157680000,
+    "prev": "da5372a9a478bd3a0d333615ae858a4aeb7af0ab9ffa570645c8e8db6346cc4b",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUm1QVFUYXoiSaBAwiRqs7OYAKrr3+2PNckIDWqKQSapF1nvuPXf3Buwuu3f5
+yBaFQRmMRA2T+NLCKUgEkrUZCzE2JiocA2xkcJBCCQbErE2cNMru1fzRTD87f86c
+9zzP8z7vc86e0Ht0wQHlPU9eDgncyAX0TwPdK2ORLVsRYBeLEMNWJBve3mCOCF2K
+OVsWEQOCYijGMLwg0JIAGYxGMUijEKWgRGMCLpEig/MsxjM8wAiREhgS8JDFSQYH
+EsvhgkjSHIfySDwiyTYLdDqcsk1RZUWCIkSGYxmUFUSGJgmWYzCASiwjYDgBAcqj
+OIUTnEq02l0aQzUHeBdcLdvVmnow37b3H/j/2bf7jhzNU1oTjhFZHudQSKFAJDGI
+coQEOEzr63ZBp43PhSpasRS5nYKMeOIRtZgvC1DLVRvk34DVFlmxusGdmRxOu2IX
+7DnqtVVRHC6DRleKHBq+AALzP0pmINtENUuVkQ+dLtluQwyYihQUWZPGSA7lSI5k
+mXgEFjpkJzTLGoJiaBZVl9YH5msvwFOZhBoCx5MMC0SCR0WCIGiMUnOgWJ7kIWB4
+CeUBJ0k8xaA0SQksZEVAEyQtCCRAtOHybHbEQKk+eYuq6ZItNl5xOyHiCakIJIJ0
+AcG6Rx96Iuhs+nCNo3JYZA9Eh939f/cGap9PF3J/+N1K0MWwWxmZWU81rq9mey2H
+Xks0zHbplevfRRZfEQ8xZwJLmMj2B59d97yxAjkqZA6UFfqirx3Y8+YDO8Z31bXS
+zekDUzN/xET6P2vTK121p9fWdHaZrpxZtiBj9NSLdLM+YRM2MRpdnzMb5ms4X1rl
+B/0tPmtptYnSjb3eINyY39F4ZPOrEfb3nI+3R54/HvpWRTZ//fcLl5ZEZfYZn+5f
+VB/aEzvyW+j2jqOm+/YOp/xZOXxp3HO6Jy728GjewDY8qnOVEPPc1UVpywtGV5q+
+GflAWHNrg9/q0tXXLhw37zsW8/KpZOPBzY7yiWKwZW1Cta3t+JZ9N4eazdN+p+dc
+6uK4kpSmIwKyImK0Jg7MtM5/XjT5w5xj5MKXj+lih3dPlTX1jWX43g7pA4OftkzV
+9Xr9vxSEV2V2JBZFu0eGEtOW+v6Krv6486eOkq9vkFxhe/mJQaM+HX0pd791ZqGV
+TO/1RFSfTd39UdYL7yyxJpUlnZizVp28Fmyc/3XDze4Vk1L45TXT8+dEdra7ITVh
+b0NxTVu7MmM3zssn9cfqvIOlpZUNO1cto1A4udNf2i//PBGnXyoV+jZ6GwNTvl2Z
+NdGEd7e4vkhefnXu+1ppU0BnW1SI92JQ+eG0odxtbq+3dYjonvzQs87yCRb/7o9J
+Bx9OXbDdZJj+6pH346aDKxYn7wd5QaZdvjee6f0b
+=8//h
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tgyurci
+
+==================================================================
